@@ -23,3 +23,11 @@ footer{
 
 
 }
+
+.botao-tarefa > img {
+    cursor: pointer;
+}
+
+#adicionar-tarefa > img {
+    cursor: pointer;
+}
